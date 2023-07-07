@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "0Local")(type "KiCad")(uri "/home/maia/code/hp8565/readout/board/local.pretty")(options "")(descr ""))
+)
